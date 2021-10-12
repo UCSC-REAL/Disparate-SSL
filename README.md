@@ -2,7 +2,7 @@
 
 
 ## Preprocess file of the dataset used in implicit sub-populations:  <br>(Demographic groups: race and gender)
-The following code will pre-process the jigsaw dataset and return xxx.
+The following code will pre-process the jigsaw dataset and return train/test dataset files including demographic groups information.
 
 #### Step-1:
 Download the jigsaw dataset: *identity_individual_annotations.csv* from
